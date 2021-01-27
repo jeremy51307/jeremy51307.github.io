@@ -14,6 +14,7 @@
 		artist:"周杰倫",
 		src:"music/Jay Chou 周杰倫【一路向北 All the Way North】-Official Music Video.mp3"
 	},
+	B
 	{
 		name:"Jay Chou 周杰倫【七里香 Qi-Li-Xiang】-Official Music Video",
 		artist:"周杰倫",
@@ -39,6 +40,7 @@
 		artist:"周杰倫",
 		src:"music/Jay Chou 周杰倫【千里之外 Far Away】-Official Music Video(ft.費玉清).mp3"
 	},
+	B
 	{
 		name:"Jay Chou 周杰倫【印地安老斑鳩 Ancient Indian Turtledove】-Official Music Video",
 		artist:"周杰倫",
@@ -131,6 +133,7 @@
 	},
 	{
 		name:"Jay Chou 周杰倫【我的地盤 My Territory】-Official Music Video",
+		B
 		artist:"周杰倫",
 		src:"music/Jay Chou 周杰倫【我的地盤 My Territory】-Official Music Video.mp3"
 	},
@@ -141,6 +144,7 @@
 	},
 	{
 		name:"Jay Chou 周杰倫【扯 Pull Apart】-Official Music Video",
+		B
 		artist:"周杰倫",
 		src:"music/Jay Chou 周杰倫【扯 Pull Apart】-Official Music Video.mp3"
 	},
@@ -239,6 +243,7 @@
 		artist:"周杰倫",
 		src:"music/Jay Chou 周杰倫【菊花台 Chrysanthemum Terrace】-Official Music Video.mp3"
 	},
+	B
 	{
 		name:"Jay Chou 周杰倫【蒲公英的約定 A Dandelion's Promise】-Official Music Video",
 		artist:"周杰倫",
@@ -263,6 +268,7 @@
 		name:"Jay Chou 周杰倫【說好的幸福呢 The Promised Love】-Official Music Video",
 		artist:"周杰倫",
 		src:"music/Jay Chou 周杰倫【說好的幸福呢 The Promised Love】-Official Music Video.mp3"
+		B
 	},
 	{
 		name:"Jay Chou 周杰倫【迷迭香 Rosemary】-Official Music Video",
@@ -296,6 +302,7 @@
 	},
 	{
 		name:"Jay Chou 周杰倫【魔術先生Magician】-Official Music Video",
+		B
 		artist:"周杰倫",
 		src:"music/Jay Chou 周杰倫【魔術先生Magician】-Official Music Video.mp3"
 	},
@@ -383,6 +390,7 @@
 		name:"周杰倫 Jay Chou【一點點 A Little Bit】Official MV",
 		artist:"周杰倫",
 		src:"music/周杰倫 Jay Chou【一點點 A Little Bit】Official MV.mp3"
+		B
 	},
 	{
 		name:"周杰倫 Jay Chou【上海 一九四三 Shanghai 1943】Official MV",
@@ -408,6 +416,7 @@
 		name:"周杰倫 Jay Chou【你好嗎 How Are You】Official MV",
 		artist:"周杰倫",
 		src:"music/周杰倫 Jay Chou【你好嗎 How Are You】Official MV.mp3"
+		B
 	},
 	{
 		name:"周杰倫 Jay Chou【你比從前快樂 You Are Happier Than Before】Official MV",
@@ -602,6 +611,7 @@
 	{
 		name:"周杰倫 Jay Chou【爺爺泡的茶 Grandpa's Tea】Official MV",
 		artist:"周杰倫",
+		B
 		src:"music/周杰倫 Jay Chou【爺爺泡的茶 Grandpa's Tea】Official MV.mp3"
 	},
 	{
@@ -622,6 +632,7 @@
 	{
 		name:"周杰倫 Jay Chou【竊愛 Stolen Love】Official MV",
 		artist:"周杰倫",
+		B
 		src:"music/周杰倫 Jay Chou【竊愛 Stolen Love】Official MV.mp3"
 	},
 	{
@@ -657,6 +668,7 @@
 	{
 		name:"周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】Official MV",
 		artist:"周杰倫",
+		B
 		src:"music/周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】Official MV.mp3"
 	},
 	{
@@ -714,11 +726,13 @@
 		artist:"周杰倫",
 		src:"music/周杰倫 Jay Chou【雨下一整晚 Rain All Night】Official MV.mp3"
 	},
+	B
 	{
 		name:"周杰倫 Jay Chou【鞋子特大號 Extra Large Shoes】Official MV",
 		artist:"周杰倫",
 		src:"music/周杰倫 Jay Chou【鞋子特大號 Extra Large Shoes】Official MV.mp3"
 	},
+	B
 	{
 		name:"周杰倫 Jay Chou【飄移 Drifting】(頭文字D版)-Official Music Video",
 		artist:"周杰倫",
@@ -762,6 +776,7 @@
 	{
 		name:"周杰倫【困獸之鬥 官方完整MV】Jay Chou Struggle MV (Kun-Shou-Zhi-Dou)",
 		artist:"周杰倫",
+		B
 		src:"music/周杰倫【困獸之鬥 官方完整MV】Jay Chou Struggle MV (Kun-Shou-Zhi-Dou).mp3"
 	},
 	{
@@ -781,6 +796,7 @@
 	},
 	{
 		name:"周杰倫【擱淺 官方完整MV】Jay Chou Step Aside MV (Ge-Qian)",
+		B
 		artist:"周杰倫",
 		src:"music/周杰倫【擱淺 官方完整MV】Jay Chou Step Aside MV (Ge-Qian).mp3"
 	},
@@ -788,6 +804,7 @@
 		name:"周杰倫【牛仔很忙 官方完整MV】Jay Chou Cowboy On The Run MV (Niu-Zi-Hen-Mang)",
 		artist:"周杰倫",
 		src:"music/周杰倫【牛仔很忙 官方完整MV】Jay Chou Cowboy On The Run MV (Niu-Zi-Hen-Mang).mp3"
+		B
 	},
 	{
 		name:"周杰倫【獻世 官方完整MV】Jay Chou concert in Hong Kong",
