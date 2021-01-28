@@ -2,7 +2,7 @@
 	{
 		name:"Asiaboy-wake up in the moring",
 		artist:"Asiaboy",
-		src:"music/Asiaboy-WAKE UP IN THE MORNING.mp3"
+		src:"music/禁藥王-WAKE UP IN THE MORNING.mp3"
 	},
         {
 		name:"Asiaboy 禁藥王 Lizi 栗子 - 都關掉 Feat. 蛋頭 BG8Locc",
